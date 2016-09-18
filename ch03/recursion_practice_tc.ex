@@ -1,4 +1,4 @@
-defmodule RecursiveTailPractice do
+defmodule TailRecursionPractice do
   # Calculates the length of a list
   def list_len(list) do
     do_list_len(0, list)
